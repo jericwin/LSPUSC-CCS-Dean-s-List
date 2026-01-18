@@ -1,2 +1,2 @@
-# LSPUSC-CCS-Dean-s-List
-The LSPU Siniloan CCS Dean’s List portal lets students securely upload their Certificate of Grades and Enrollment. It simplifies submissions, tracks eligibility, and ensures efficient, transparent evaluation, making the Dean’s List process faster and more accessible for all students.
+# CCS-Dean-s-List
+The CCS Dean’s Lister Student Portal is an online platform where students can apply for the Dean’s List, track their application status, and receive feedback. It helps streamline evaluation, ensures transparency, and provides a convenient way to recognize academic achievers.
